@@ -1,0 +1,65 @@
+1 CS; 111; Introduction to Programming and Problem Solving; both;
+2 CS; 115; Computing for the Socio-Techno Web; both;
+3 CS; 112; Computation for the Sciences; spring;
+4 CS; 230; Data Structures; both;
+5 MATH; 225; Combinatorics and Graph Theory; both;
+6 CS; 240; Foundations of Computer Systems with Laboratory; both;
+7 CS; 204; Introduction to Front-End Web Development; fall;
+8 CS; 220; Human-Computer Interaction; both;
+9 CS; 225; Making and Fabrication; fall;
+10 CS; 232; Artificial Intelligence; spring;
+11 CS; 234; Data, Analytics, and Visualization; fall;
+12 CS; 242; Computer Networks; fall;
+13 CS; 251; Programming Languages; both;
+14 CS; 332; Visual Processing by Computer and Biological Vision Systems; both;
+15 CS; 320; Tangible User Interfaces; fall;
+16 CS; 304; Databases with Web Interfaces; both;
+17 CS; 307; Computer Graphics; fall;
+18 CS; 313; Computational Biology; fall;
+19 CS; 315; Data and Text Mining for the Web; both
+20 CS; 341; Operating Systems; spring;
+21 CS; 231; Fundamental Algorithms; both;
+22 CS; 235; Languages and Automata; both;
+23 CS; 310; Foundations of Cryptology; both;
+24 CS; 342; Computer Security; spring;
+25 CS; 301; Compiler and Runtime System Design; both;
+#
+4 5
+1 4
+1 6
+3 6
+2 7
+1 7
+1 8
+3 8
+2 8
+1 9
+3 9
+2 9
+4 10
+4 11
+4 12
+4 13
+3 14
+4 14
+8 15
+4 15
+4 16
+4 17
+4 18
+4 19
+5 21
+4 21
+5 22
+4 22
+22 23
+21 23
+6 24
+4 24
+4 6
+12 24
+6 20
+4 25
+6 25
+13 25
+22 25
